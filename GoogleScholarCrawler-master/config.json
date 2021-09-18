@@ -1,0 +1,16 @@
+{
+    "keywords":
+    [
+        "live streaming"
+    ],
+    
+    "fpath":"C:\\Users\\wadep\\Desktop\\LITERATURE_CRAW\\",
+        
+    "chromedriver_path":
+    "C:\\Users\\wadep\\Desktop\\LITERATURE_CRAW\\chromedriver.exe",
+    
+    "require_pages":
+    1
+
+    
+}
