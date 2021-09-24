@@ -3,19 +3,20 @@ This is a short python program that search, format, and download paper form goog
 
 ## Requirements
 1.先將chromedriver.exe所放置的路徑填入config.json中的chromedriver_path ;
-2.config.json中的fpath填入google_scholar_crawler-main\\資料夾的路徑(要以雙斜線做區隔)
+2.config.json中的fpath填入google_scholar_crawler-main\\資料夾的路徑(要以雙斜線做區隔);
 ![log file sample](https://github.com/405520002/google_scholar_crawler/blob/main/gif1.PNG)
 
 
 
 ## Using this program
-1. 
-2. open terminal and cd to the target folder;
-3. in target folder, change "config.json" file to change search keywords and target journals accordingly;
+1. 在keyword:中打入想搜尋的論文主題(ex:live streaming);
+2. 在require_page中輸入要爬的頁數(ex :1);
+3. 執行.\\GoogleScholarCrawler-master\\dist中的GoogleScholarCrawler.exe;
 4. in terminal, use
 ```shell
 python GoogleScholarCrawler.py config.json
 ```
+![log file sample](https://github.com/405520002/google_scholar_crawler/blob/main/gif2.PNG)
 
 
 
