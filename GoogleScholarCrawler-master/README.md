@@ -21,6 +21,8 @@ This is a short python program that search, format, and download paper form goog
 3. 執行.\\GoogleScholarCrawler-master\\dist中的GoogleScholarCrawler.exe. 
 
 4. 開始執行爬蟲程式 會在google_scholar_crawler的資料夾內顯示論文主題的資料夾，裡面會有論文pdf檔案，以及一個論文資訊整理的csv檔 (author, title, journal, year and whether pdf is avaliable). 
+5. The pdf files will be renamed as:
+`author-year-title-journal.pdf`
 
 ![log file sample](https://github.com/405520002/google_scholar_crawler/blob/main/GoogleScholarCrawler-master/log_file_sample.png). 
 
@@ -36,7 +38,7 @@ This is a short python program that search, format, and download paper form goog
 
 ![log file sample](https://github.com/405520002/google_scholar_crawler/blob/main/%E6%88%AA%E5%9C%96%202021-09-24%20%E4%B8%8B%E5%8D%8810.24.30.png). 
 
-5.下圖為範例（愈看live streaming 中資料夾的 log file 第一篇論文). 
+5.下圖為範例（欲看live streaming 中資料夾的 log file 第一篇論文). 
 
 ![log file sample](https://github.com/405520002/google_scholar_crawler/blob/main/%E6%88%AA%E5%9C%96%202021-09-24%20%E4%B8%8B%E5%8D%8810.49.56.png). 
 
@@ -44,8 +46,6 @@ This is a short python program that search, format, and download paper form goog
 
 
 
-The pdf files will be renamed as:
-`author-year-title-journal.pdf`
 
 
 
