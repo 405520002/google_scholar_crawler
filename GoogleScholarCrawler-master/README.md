@@ -2,8 +2,8 @@
 This is a short python program that search, format, and download paper form google scholar.
 
 ## Requirements
-1.先將chromedriver.exe所放置的路徑填入config.json中的chromedriver_path ;
-2.config.json中的fpath填入google_scholar_crawler-main\\資料夾的路徑(要以雙斜線做區隔);
+1.先將chromedriver.exe所放置的路徑填入config.json中的chromedriver_path.
+2.config.json中的fpath填入google_scholar_crawler-main\\資料夾的路徑(要以雙斜線做區隔).
 ![log file sample](https://github.com/405520002/google_scholar_crawler/blob/main/gif1.PNG)
 
 
