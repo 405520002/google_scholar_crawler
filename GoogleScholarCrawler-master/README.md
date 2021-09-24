@@ -19,7 +19,7 @@ This is a short python program that search, format, and download paper form goog
 1.點開./look_at//dist//look_at_pdf.exe. 
 2.在choose subject 中輸入欲查看的論文主題，(論文主題必須要有對應的論文資訊csv檔案). 
 3.在choose number 中輸入欲查看pdf的編號 （log file title左邊的欄位數字）. 
-![log file sample]（https://github.com/405520002/google_scholar_crawler/blob/main/%E6%88%AA%E5%9C%96%202021-09-24%20%E4%B8%8B%E5%8D%8810.28.38.png）
+![log file sample](https://github.com/405520002/google_scholar_crawler/blob/main/%E6%88%AA%E5%9C%96%202021-09-24%20%E4%B8%8B%E5%8D%8810.28.38.png)
 4.點選右下角look_pdf查看論文. 
 ![log file sample](https://github.com/405520002/google_scholar_crawler/blob/main/%E6%88%AA%E5%9C%96%202021-09-24%20%E4%B8%8B%E5%8D%8810.24.30.png)
 
