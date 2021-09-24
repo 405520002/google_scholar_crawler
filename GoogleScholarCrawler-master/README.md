@@ -2,9 +2,12 @@
 This is a short python program that search, format, and download paper form google scholar.
 
 ## Requirements
-1.先將chromedriver.exe所放置的路徑填入config.json中的chromedriver_path.  
-2.config.json中的fpath填入google_scholar_crawler-main資料夾的路徑(要以雙斜線做區隔，最後也要加雙斜線).  
-![log file sample](https://github.com/405520002/google_scholar_crawler/blob/main/gif1.PNG)
+1.先將chromedriver.exe所放置的路徑填入config.json中的chromedriver_path. 
+
+2.config.json中的fpath填入google_scholar_crawler-main資料夾的路徑(要以雙斜線做區隔，最後也要加雙斜線). 
+
+![log file sample](https://github.com/405520002/google_scholar_crawler/blob/main/gif1.PNG). 
+
 
 
 
@@ -32,6 +35,11 @@ This is a short python program that search, format, and download paper form goog
 4.點選右下角look_pdf查看論文. 
 
 ![log file sample](https://github.com/405520002/google_scholar_crawler/blob/main/%E6%88%AA%E5%9C%96%202021-09-24%20%E4%B8%8B%E5%8D%8810.24.30.png). 
+
+5.下圖為範例（愈看live streaming 中資料夾的 log file 第一篇論文). 
+
+![log file sample](https://github.com/405520002/google_scholar_crawler/blob/main/%E6%88%AA%E5%9C%96%202021-09-24%20%E4%B8%8B%E5%8D%8810.49.56.png). 
+
 
 
 
