@@ -12,16 +12,14 @@ This is a short python program that search, format, and download paper form goog
 1. 在keyword:中打入想搜尋的論文主題(ex:live streaming);
 2. 在require_page中輸入要爬的頁數(ex :1);
 3. 執行.\\GoogleScholarCrawler-master\\dist中的GoogleScholarCrawler.exe;
-4. 開始執行爬蟲程式 會在google_scholar_crawler的資料夾內顯示論文主題的資料夾，裡面會有論文pdf檔案，以及一個論文資訊整理的csv檔
-```shell
-python GoogleScholarCrawler.py config.json
-```
+4. 開始執行爬蟲程式 會在google_scholar_crawler的資料夾內顯示論文主題的資料夾，裡面會有論文pdf檔案，以及一個論文資訊整理的csv檔 (author, title, journal, year and whether pdf is avaliable)
+
+##有些ＰＤＦ檔會下載失敗，若欲看下載失敗的論文請使用look_at_pdf.exe
+1.點開look_at_pdf.exe
+2.
+
 ![log file sample](https://github.com/405520002/google_scholar_crawler/blob/main/gif2.PNG)
 
-
-
-In each folder, there is an excel log file recorded detailed search results (author, title, journal, year and whether pdf is avaliable).
-There will also be all the pdf files that are publicly accessible in Google Scholar.
 
 Here is how the log file will look like:
 ![log file sample](https://github.com/405520002/google_scholar_crawler/blob/main/gif1.PNG)
