@@ -12,7 +12,7 @@ This is a short python program that search, format, and download paper form goog
 1. 在keyword:中打入想搜尋的論文主題(ex:live streaming);
 2. 在require_page中輸入要爬的頁數(ex :1);
 3. 執行.\\GoogleScholarCrawler-master\\dist中的GoogleScholarCrawler.exe;
-4. in terminal, use
+4. 開始執行爬蟲程式 會在google_scholar_crawler的資料夾內顯示論文主題的資料夾，裡面會有論文pdf檔案，以及一個論文資訊整理的csv檔
 ```shell
 python GoogleScholarCrawler.py config.json
 ```
